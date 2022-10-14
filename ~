@@ -1,0 +1,17 @@
+misc: practical-03l
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Date:      Fri Oct 14 12:14:53 2022 +0530
+#
+# interactive rebase in progress; onto 737804c
+# Last command done (1 command done):
+#    reword 2b24d1a misc: practical-03
+# No commands remaining.
+# You are currently editing a commit while rebasing branch 'main' on '737804c'.
+#
+# Changes to be committed:
+#	new file:   practical-03
+#	new file:   practical-03.c
+#
