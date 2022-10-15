@@ -24,7 +24,7 @@
 
 // Output:
 // Enter five subjects marks: 55
-// 6612
+// 66
 // 77
 // 88
 // 99
