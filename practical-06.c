@@ -27,7 +27,7 @@ int main(){
 
     printf("Revesed Number = %d",reversedNumber);
     return 10;
-}
+}  
 
 // Output:
 // Enter an integer: 1234

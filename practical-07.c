@@ -58,6 +58,7 @@ sign =sign*(-1);
 // 45
 // Sum of the cosine series = 0.71
 // The value of cos(45) using library function = 0.525322
+
 // Enter the number of the terms in a series
 // 5
 // Enter the value of x(in degrees)
