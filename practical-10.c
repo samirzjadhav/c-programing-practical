@@ -50,3 +50,20 @@ int main(){
     printf("\n%d",arr[i]);    
 }
 
+// Output
+// Enter no of elements :5
+// 1
+// 2
+// 3
+// 4
+// 5
+
+// Enter the element to be inserted :22
+
+// Enter the location2
+// 1
+// 22
+// 2
+// 3
+// 4
+// 5
