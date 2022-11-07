@@ -47,5 +47,22 @@ int main(){
     }
  }
 
-
+// Output:
+// Enter the order of the matrix
+// 3
+// 3
+// Enter the values
+// 1
+// 2
+// 3
+// 4
+// 5
+// 6
+// 7
+// 8
+// 9
+// The given matrix is
+// 1 2 3
+// 4 5 6
+// 7 8 9
 
