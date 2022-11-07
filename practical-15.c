@@ -59,7 +59,9 @@ int main() {
 // Vowels: 2
 // Consonants: 3
 // Digits: 0
-// White spaces: 0Enter a line of string: santaji mahavidyalaya
+// White spaces: 0
+
+// Enter a line of string: santaji mahavidyalaya
 // Vowels: 9
 // Consonants: 11
 // Digits: 0
